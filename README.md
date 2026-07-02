@@ -4,11 +4,11 @@ A simple, interactive chatbot built with Python that learns from user interactio
 
 ## Features
 
-- 💬 Interactive GUI interface using Tkinter
-- 🧠 Knowledge base stored in JSON format
-- 🎯 Fuzzy string matching to find the best answer
-- 📚 Learning capability - the bot can learn new Q&A pairs from users
-- 🔄 Persistent storage of learned answers
+- Interactive GUI interface using Tkinter
+- Knowledge base stored in JSON format
+- Fuzzy string matching to find the best answer
+- Learning capability - the bot can learn new Q&A pairs from users
+- Persistent storage of learned answers
 
 ## Requirements
 
